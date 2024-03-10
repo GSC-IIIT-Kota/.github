@@ -47,6 +47,20 @@ The Period App aligns with the following United Nations Sustainable Development 
 
 ---
 
+## 🖼️ App Screenshots
+
+<div style="display:flex; justify-content:center; overflow-x: auto; flex-wrap: nowrap; width: 100%;">
+  <img src="https://github.com/GSC-IIIT-Kota/Client/blob/master/assets/Screeshots/WhatsApp%20Image%202024-03-05%20at%2012.28.55%20PM.jpeg" style="width: 150px; margin: 5px;">
+  <img src="https://github.com/GSC-IIIT-Kota/Client/blob/master/assets/Screeshots/WhatsApp%20Image%202024-03-05%20at%2012.28.54%20PM.jpeg" style="width: 150px; margin: 5px;">
+  <img src="https://github.com/GSC-IIIT-Kota/Client/blob/master/assets/Screeshots/WhatsApp%20Image%202024-03-05%20at%2012.28.54%20PM%20(2).jpeg" style="width: 150px; margin: 5px;">
+  <img src="https://github.com/GSC-IIIT-Kota/Client/blob/master/assets/Screeshots/WhatsApp%20Image%202024-03-05%20at%2012.28.54%20PM%20(1).jpeg" style="width: 150px; margin: 5px;">  
+  <img src="https://github.com/GSC-IIIT-Kota/Client/blob/master/assets/Screeshots/WhatsApp%20Image%202024-03-05%20at%2012.28.49%20PM.jpeg" style="width: 150px; margin: 5px;">  
+</div>
+
+
+
+---
+
 ## 💻 Technology Used
 
 ### Client Side
@@ -82,3 +96,7 @@ The **Period App** welcomes contributions from individuals and organizations who
 - **Community Members:** Participate in discussions, share your experiences, and provide feedback to help improve the app.
 
 Together, we can break taboos, promote education, and empower women and girls to manage their menstrual health with dignity and confidence.
+
+---
+
+This README is a part of the Solution Challenge, aimed at developing innovative solutions for societal challenges. Learn more about the Solution Challenge [here](https://developers.google.com/community/gdsc-solution-challenge).
